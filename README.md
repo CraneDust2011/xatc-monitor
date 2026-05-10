@@ -11,10 +11,10 @@
 ## 🚀 快速开始
 
 ### 方式一：直接下载发行版（推荐）
-1. 前往 [Releases 页面](https://github.com/你的用户名/你的仓库名/releases)
+1. 前往 [Releases 页面](https://github.com/CraneDust2011/xatc-monitor/releases/tag/monitor)
 2. 下载最新版本的 `server.exe` 和 `client.exe`
-3. 先运行 `server.exe`，启动服务端
-4. 再运行 `client.exe`，修改服务端地址即可连接
+3. 先运行 `monitor_Server_Service_Windows_x86.exe`，启动服务端
+4. 再运行 `client_windows_x86.exe`，修改服务端地址即可连接
 
 ### 方式二：源码运行
 #### 1. 安装依赖
