@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>信阳航空技师学院服务器监控</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🏫 信阳航空技师学院<br>服务器聚合状态监控</h1>
+        <p class="subtitle">实时监控 · 自动刷新 · 内网专用</p>
+        <div class="card-list" id="cardList"></div>
+    </div>
+
+    <script>
+        const servers = {{ servers|tojson }};
+    </script>
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

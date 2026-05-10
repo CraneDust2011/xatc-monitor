@@ -1,0 +1,7 @@
+[
+    {"name":"xxx","ip":"172.1.xx.xx","type":"ikuai","port":880},
+    {"name":"xxx","ip":"172.20.xx.xx","type":"ubuntu","port":22},
+    {"name":"xxx","ip":"172.20.xx.xx","type":"windows","port":3389},
+    {"name":"xxx","ip":"172.20.xx.xx","type":"windows","port":443},
+    {"name":"xxx","ip":"172.20.xx.xx","type":"nas","port":5000}
+]
